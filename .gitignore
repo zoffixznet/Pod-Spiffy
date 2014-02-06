@@ -1,4 +1,5 @@
 _psd
 .build
 Pod-Spiffy-*
+*/*.directory
 
